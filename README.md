@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=3hnkkyt29)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **3hnkkyt29/3hnkkyt29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
