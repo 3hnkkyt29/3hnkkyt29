@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">### Hi there 👋</h1>
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact)
 
