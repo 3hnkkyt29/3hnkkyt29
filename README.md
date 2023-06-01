@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=3hnkkyt29&show_icons=true&theme=graywhite&line_height=20)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact)
 
 
 <!--
