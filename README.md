@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋　I'm Honoka </h1>
 
 👩‍💻 junior developer in Tokyo　<br>
+
 🌱 I’m currently learning Ruby
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact)
