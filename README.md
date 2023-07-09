@@ -5,8 +5,8 @@
 🌱 I’m currently learning Ruby
 
 <p align="left"> 
-  <img alt="Top Languages Card" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact&theme=synthwave" />
-  <img alt="profile-summary-cards" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3hnkkyt29&theme=synthwave" />
+  <img alt="Top Languages Card" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact&theme=synthwave" />
+  <img alt="profile-summary-cards" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3hnkkyt29&theme=synthwave" />
 </p>
 
 <!--
