@@ -4,10 +4,7 @@
 
 🌱 I’m currently learning Ruby
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=3hnkkyt29&theme=tokyonight&show_icons=ture" />
-</p>
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact&theme=gruvbox)
 
 <!--
 **3hnkkyt29/3hnkkyt29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
