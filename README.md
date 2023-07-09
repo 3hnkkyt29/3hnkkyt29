@@ -2,6 +2,8 @@
 
 👩‍💻 junior developer in Tokyo　<br>
 
+📖 since March,2023 <br>
+
 🌱 I’m currently learning Ruby
 
 <p align="left"> 
