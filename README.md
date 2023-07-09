@@ -5,6 +5,7 @@
 🌱 I’m currently learning Ruby
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact&theme=synthwave)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3hnkkyt29&theme=synthwave
 
 <!--
 **3hnkkyt29/3hnkkyt29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
