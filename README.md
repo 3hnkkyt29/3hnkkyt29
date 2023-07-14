@@ -4,9 +4,7 @@
 
 📖 since March,2023 <br>
 
-🌱 I’m currently learning Ruby<br>
-
-🌟 Next, I wanna improve JavaScript skills
+🌱 I’m currently learning Ruby
 
 <p align="left"> 
   <img alt="Top Languages Card" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hnkkyt29&layout=compact&theme=synthwave" />
